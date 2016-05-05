@@ -1,0 +1,21 @@
+//
+//  SMCoredata-Prefix.pch
+//  SMCoredata
+//
+//  Created by Shankar Mallick on 29/04/16.
+//  Copyright © 2016 Shankar101. All rights reserved.
+//
+
+#ifndef SMCoredata_Prefix_pch
+#define SMCoredata_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+//http://stackoverflow.com/questions/25840720/xcode-6-pch-file-not-found
+//https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=how%20to%20add%20pch%20file%20in%20ios
+
+#import "DBqueryHanadler.h"
+#import "UIImageView+UIActivityIndicatorForSDWebImage.h"
+#import "UIImageView+WebCache.h"
+
+#endif /* SMCoredata_Prefix_pch */

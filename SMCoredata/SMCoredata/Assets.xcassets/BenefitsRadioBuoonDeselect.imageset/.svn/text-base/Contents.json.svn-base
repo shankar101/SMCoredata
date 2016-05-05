@@ -1,0 +1,39 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "filename" : "BenefitsRadioBuoonDeselect~iPhone.png"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "filename" : "BenefitsRadioBuoonDeselect~iPhone-667h@2x.png"
+    },
+    {
+      "idiom" : "iphone",
+      "filename" : "BenefitsRadioBuoonDeselect~iPhone-568h@2x.png",
+      "subtype" : "retina4",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "filename" : "BenefitsRadioBuoonDeselect~iPhone-736h@3x.png"
+    },
+    {
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "filename" : "BenefitsRadioBuoonDeselect~iPad.png"
+    },
+    {
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "filename" : "BenefitsRadioBuoonDeselect~iPad@2x.png"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
