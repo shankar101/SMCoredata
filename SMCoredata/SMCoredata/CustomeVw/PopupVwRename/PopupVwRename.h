@@ -19,7 +19,7 @@
     UserInfo *objuserinfo;
 }
 
-@property (nonatomic,strong)id <rename>_rename;
+@property (nonatomic,weak)id <rename>_rename;
 @property (nonatomic,strong)NSString *strname;
 
 + (instancetype)instantiateFromNib;
